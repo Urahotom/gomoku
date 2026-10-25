@@ -1,0 +1,11 @@
+{
+  "character": "aoi",
+  "bgm_volume": 0.5,
+  "se_volume": 0.8,
+  "player_is_black": true,
+  "ai_noise": 0.15,
+  "ai_level": 2,
+  "ai_depth": 5,
+  "se_muted": false,
+  "bgm_muted": false
+}
